@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "7cb200d3957ee079",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb0e629095450dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "645ab8779bce9aa0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "70441ffc4c84a5b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9ce853313b13d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae3cf81a9adc079a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc5e2e827966ec81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e46a65bd82aa3d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c04b6444f9337903",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "groove",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8789ad7decfddf92",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "119d407f37a74384",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5705740e0090943",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cb8b6f670f29358",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f55c10ae517f93b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "30e800c092b1d124",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eaecca2d390d375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce3c5fb4fce2d4b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21f9fef5d8a8b9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb8969f50ecbb421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e797b594fc05cd2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "e2c6188353adf0d4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d79f8de53715919",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ee4e59d328e8ef1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b683dd9ccfbefc9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2407274e9287884",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "48da145882bbffc9",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "854a81ba46f37aa7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-metatable:Metatable": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "a9ce853313b13d71",
+  "lastOpenFiles": [
+    "assets/images/obsidian-skeleton.png",
+    "README.md",
+    "assets/images",
+    "assets",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Prompts.md",
+    "chapters/Introduction.md",
+    "Table of Contents.md",
+    "Paste.md",
+    "Bonus Chapter Candidates.md",
+    "Title.md",
+    "How to Setup.md",
+    "chapters/chapter 10 Blueberries - The Tiny Titans of Tastiness.md",
+    "assets/images/github-healthbook-repo.png",
+    "assets/images/github-settings-ssh-keys.png",
+    "assets/images",
+    "assets",
+    "chapters",
+    "Day Planners/Day Planners.md",
+    "Day Planners/Day Planner-20230515.md",
+    "Day Planners",
+    "daily notes/2023-05-09.md",
+    "daily notes/2023-05-14.md",
+    "Day Planners/Day Planner-20230513.md",
+    "Day Planners/Day Planner-20230512.md",
+    "Day Planners/Day Planner-20230511.md",
+    "Day Planners/Day Planner-20230510.md",
+    "daily notes/2023-05-04.md",
+    "Day Planners/Day Planner-20230509.md",
+    "Day Planners/Day Planner-20230508.md",
+    "Day Planners/Day Planner-20230507.md",
+    "Day Planners/Day Planner-20230506.md",
+    "Day Planners/Day Planner-20230505.md",
+    "Screenshot 2023-05-04 at 20.50.01.png",
+    "daily notes/2023-05-03.md",
+    "call notes/230504 - growth partners training.md",
+    "Screenshot 2023-05-04 at 12.47.23.png",
+    "Screenshot 2023-05-04 at 12.46.59.png",
+    "Screenshot 2023-05-04 at 12.46.43.png",
+    "Screenshot 2023-05-04 at 12.45.26.png",
+    "Screenshot 2023-05-04 at 12.44.14.png",
+    "Screenshot 2023-05-04 at 12.42.07.png",
+    "ToDo",
+    "assets/audio/Recording 20230417001355.webm",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

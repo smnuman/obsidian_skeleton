@@ -1,0 +1,443 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "liveThis": {
+      "liveThis": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681683881244
+        }
+      }
+    },
+    "total3": {
+      "total3": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681730690991
+        }
+      }
+    },
+    "tokens": {
+      "tokens": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736685997
+        }
+      }
+    },
+    "Theta": {
+      "Theta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736712636
+        }
+      }
+    },
+    "Tokens": {
+      "Tokens": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736789921
+        }
+      }
+    },
+    "Sniperschool": {
+      "Sniperschool": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736796724
+        }
+      }
+    },
+    "DOTUSD": {
+      "DOTUSD": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736810302
+        }
+      }
+    },
+    "todo-list": {
+      "todo-list": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681756099383
+        }
+      }
+    },
+    "magnetic-camera-handle-bluetooth-bracket": {
+      "magnetic-camera-handle-bluetooth-bracket": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681764537994
+        }
+      }
+    },
+    "alert": {
+      "alert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681890221235
+        }
+      }
+    },
+    "Designer": {
+      "Designer": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1681993243419
+        }
+      }
+    },
+    "HeyGen": {
+      "HeyGen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681993255679
+        }
+      }
+    },
+    "compliance": {
+      "compliance": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682007683359
+        }
+      }
+    },
+    "design.excalidraw": {
+      "design.excalidraw": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682180707097
+        }
+      }
+    },
+    "position": {
+      "position": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682180718357
+        }
+      }
+    },
+    "traders": {
+      "traders": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682184152826
+        }
+      }
+    },
+    "maybe": {
+      "maybe": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682196889374
+        }
+      }
+    },
+    "GPT-4": {
+      "GPT-4": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682267704865
+        }
+      }
+    },
+    "videos": {
+      "videos": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682282871358
+        }
+      }
+    },
+    "chatbase": {
+      "chatbase": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682287637734
+        }
+      }
+    },
+    "Text-to-Video": {
+      "Text-to-Video": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682378438959
+        }
+      }
+    },
+    "timer": {
+      "timer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682526917787
+        }
+      }
+    },
+    "cutomers": {
+      "cutomers": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682528605049
+        }
+      }
+    },
+    "certificate": {
+      "certificate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682528986613
+        }
+      }
+    },
+    "cancel": {
+      "cancel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682530778313
+        }
+      }
+    },
+    "better": {
+      "better": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682531009966
+        }
+      }
+    },
+    "months": {
+      "months": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1683205383072
+        }
+      }
+    },
+    "otherwise": {
+      "otherwise": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682531198409
+        }
+      }
+    },
+    "marks": {
+      "marks": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682531209035
+        }
+      }
+    },
+    "Architectuyre": {
+      "Architectuyre": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682712859709
+        }
+      }
+    },
+    "Chatgpt-prompt-engineering-for-developers": {
+      "Chatgpt-prompt-engineering-for-developers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682713045299
+        }
+      }
+    },
+    "chatgpt-prompt-engineering-for-developers": {
+      "chatgpt-prompt-engineering-for-developers": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682746578120
+        }
+      }
+    },
+    "companies": {
+      "companies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682957889009
+        }
+      }
+    },
+    "Bookkeeper": {
+      "Bookkeeper": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682964265846
+        }
+      }
+    },
+    "behavioural": {
+      "behavioural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682966043768
+        }
+      }
+    },
+    "FundLaunch": {
+      "FundLaunch": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682971790993
+        }
+      }
+    },
+    "drawdowns": {
+      "drawdowns": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682971999719
+        }
+      }
+    },
+    "families": {
+      "families": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683048500262
+        }
+      }
+    },
+    "Calls": {
+      "Calls": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683203472177
+        }
+      }
+    },
+    "Clients": {
+      "Clients": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683200574525
+        }
+      }
+    },
+    "talking": {
+      "talking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683201245816
+        }
+      }
+    },
+    "230416 - İskender dirik": {
+      "230416 - İskender dirik": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683203931910
+        }
+      }
+    },
+    "outreach": {
+      "outreach": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683204212730
+        }
+      }
+    },
+    "offer": {
+      "offer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683205256188
+        }
+      }
+    },
+    "milestones": {
+      "milestones": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683205360124
+        }
+      }
+    },
+    "month": {
+      "month": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683205384833
+        }
+      }
+    },
+    "Nutrition": {
+      "Nutrition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684148440091
+        }
+      }
+    }
+  }
+}

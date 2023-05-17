@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "7b70f65243447fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "52aa08e7c56fd258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f9354ff27a2c86",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "exponentials studio/Excalidraw/design.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fd778e2e9a87ae3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "037849986c456201",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fbbc09ed1739e47c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0c9d996d595137c3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "aaf866d656aa4f23",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "56aab0e88b33a4eb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9592a27173d24769",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "exponentials studio/Excalidraw/design.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2a9e0534d0b3f13f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "exponentials studio/Excalidraw/design.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e9ae501934efea60",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "exponentials studio/Excalidraw/design.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "44f9354ff27a2c86",
+  "lastOpenFiles": [
+    "exponentials studio/Excalidraw/nft-diagram.png",
+    "exponentials studio/Excalidraw/design.excalidraw.md",
+    "exponentials studio/Roadmap.md"
+  ]
+}
