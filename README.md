@@ -10,7 +10,7 @@ skeleton repo for obsidian
 5. now open the myrepository using obsidian.
 6. Commit the changes by pressing the up arrow button on the bar on the right -
    
-![[obsidian-skeleton.png]]
+`(assets/images/obsidian-skeleton.png)`
 
 From now on you should be able to make changes and use git to push changes as needed.
 
